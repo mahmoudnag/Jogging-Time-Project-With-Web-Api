@@ -1,0 +1,6 @@
+1-i did sign up in 3 parts AS we have Web Api to Make Admin And UserManager
+2-i use Jwt to make Auth And Do More than Request to make My project be improved to front-end service like Angular 
+3- some method must be only postMan test not swagger ,Method About Authorization in UserMangerConrtoller
+
+
+* I do unit test for  Request
